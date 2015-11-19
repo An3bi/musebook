@@ -5,7 +5,7 @@
    * Your Muse Buddy
    * Your Computer
 * History
-   * Y Combinator
+   * [Y Combinator](y_combinator.md)
 * What's In Town?
    * Coffee Shops
    * Lunchtime
