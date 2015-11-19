@@ -1,8 +1,5 @@
 # Glossary
 
-## Test entry
-
-testing description
 
 ## The Muse
 
