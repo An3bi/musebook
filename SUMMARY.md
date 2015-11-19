@@ -9,5 +9,5 @@
 * The Day to Day
    * The Kitchen
    * The Floorplan
-   * Software
+   * The Software
 
