@@ -8,6 +8,7 @@
 * What's In Town?
    * Coffee Shops
    * Lunchtime
+   * Take a Hike
 * The Day to Day
    * The Kitchen
    * The Floorplan
