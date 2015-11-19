@@ -1,6 +1,6 @@
 # Glossary
 
-## Test Title
+## Test entry
 
 testing description
 
