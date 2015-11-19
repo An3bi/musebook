@@ -8,6 +8,6 @@
 * What's In Town?
 * The Day to Day
    * The Kitchen
-   * Software
    * The Floorplan
+   * Software
 
