@@ -13,7 +13,7 @@ Started the company and lead its awesomeness
 
 ### Editorial
 
-Creates and distributes our amazing content
+Creates and distributes our awesome content
 
 **Adrian**, *Editor in Chief*
 
