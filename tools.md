@@ -24,7 +24,7 @@ If you're in AM or Onboarding, make sure you ask Lindsay to get you set up.
 
 
 ### Amplitude & Google Analytics
-...
+Amplitude and Google Analytics (GA) house the data about how our users interact with the site.  Having trouble getting some data you need? Reach out to the engineering team for help.
 
 
 ### Additionals
