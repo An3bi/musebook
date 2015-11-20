@@ -5,6 +5,7 @@
 * Your First Day
    * Your Muse Buddy
    * Your Computer
+   * Good to Knows
 * [The Day to Day](the_day_to_day.md)
    * [The Tools](tools.md)
 * [What's In Town?](whats_in_town.md)
