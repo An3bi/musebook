@@ -1,5 +1,13 @@
 # Your First Day
 
+## First Day Tips
+
+* ...
+* ...
+* ...
+* Founder's Lunch
+
+
 ## Muse Buddy
 New friends! Your Muse buddy is a Muse vet who will help you get the lay of the land. In addition to grabbing a [coffee](whats_in_town.md) (or something) in the next week or so, your Muse buddy will snag you and bring you over to Whiskey Friday this week, our Friday in-office happy hour that takes in the cafe over by the bar (or if they are OOO or WFH, now you know!).
 
