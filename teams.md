@@ -10,10 +10,14 @@ Marketing
 
 Engineering
 
+Operations
+
 Profiles
 
 Account Management
 
-Operations
+Finance & Accounting
+
+Talent
 
 Sales
