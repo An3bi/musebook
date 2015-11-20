@@ -41,12 +41,9 @@ Creates the awesome experiences we interact with on the site
 Manages our awesome people, clients, and awesomely makes sure we all get paid on time
 
 **Lindsay**, *Chief of Staff*
+
+The Operations sub-teams
 * Profiles - Erin H., Content Manager
 * Account Management - David, Head of Account Management
 * Finance & Accounting - Matt K, Finance Manager
 * Talent - Lauren, Recruitment
-
-
-
-### Sales
-**Doug**, *VP of Sales* 
