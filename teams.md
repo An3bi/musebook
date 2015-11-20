@@ -33,7 +33,11 @@ Creates the awesome experiences we interact with on the site
 
 **Yusuf**, *CTO*
 
+### Sales
 
+Gets us awesome clients
+
+**Doug**, *VP of Sales* 
 
 
 ### Operations
