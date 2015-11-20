@@ -13,18 +13,20 @@ Point person: **Adrian**, *Editor in Chief*
 
 
 ### Marketing
-Point person: **Elliott**, *Director of Brand Strategy & Community*
+...description...
+
+**Elliott**, *Director of Brand Strategy & Community*
 
 
 
 ### Engineering
-Point person: **Yusuf**, *CTO*
+**Yusuf**, *CTO*
 
 
 
 
 ### Operations
-Point person; **Lindsay**, *Chief of Staff*
+**Lindsay**, *Chief of Staff*
 * Profiles - Erin H., Content Manager
 * Account Management - David, Head of Account Management
 * Finance & Accounting - Matt K, Finance Manager
