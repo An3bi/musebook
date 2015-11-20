@@ -1,6 +1,6 @@
 # The Day to Day
 
-## The Office!
+## The Office
 
 ### Where to Hangout
 
