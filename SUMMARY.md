@@ -12,6 +12,6 @@
    * [Teams](teams.md)
    * [Our People](our_people.md)
    * [Our Users](our_users.md)
-       * What our users love about us
+       * [What our users love about us](what_our_users_love_about_us.md)
        * What our users love to read
 
