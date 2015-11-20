@@ -3,8 +3,8 @@
 ## Our Mission
 To build the most beloved and trusted career destination for people in the first 10-15 years of their career.
 
-## YCombinator
-Fun fact! The Muse, formerly The Daily Muse, was launched out of Y Combinator.  Check out the story below!
+## Original YCombinator Appplication
+Fun fact! The Muse, formerly The Daily Muse, was launched out of Y Combinator.  Check out @kmin's post below.
 
 [How Kathryn & Alex got into Y Combinator](https://www.themuse.com/advice/the-muses-successful-application-to-y-combinator-w12)
 
