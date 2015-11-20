@@ -2,7 +2,7 @@
 
 ## The Office!
 
-### Where to HAng
+### Where to Hangout
 **The Library**
 
 **The Couches**
