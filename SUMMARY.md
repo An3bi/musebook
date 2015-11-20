@@ -5,7 +5,7 @@
 * Your First Day
    * Your Muse Buddy
    * Your Computer
-* The Day to Day
+* [The Day to Day](the_day_to_day.md)
    * The Kitchen
    * The Floorplan
    * The Software
