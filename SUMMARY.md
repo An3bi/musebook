@@ -10,7 +10,7 @@
    * The Floorplan
    * The Software
 * [What's In Town?](whats_in_town.md)
-* Teams
+* [Teams](teams.md)
 * Embody the Culture
    * [Our Users](our_users.md)
    * [Our People](our_people.md)
