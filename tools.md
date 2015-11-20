@@ -4,8 +4,7 @@
 ### Hipchat
 
 
-The chat tool used for internal company communication, complete with GIFs. 
-Double check with you manager to ensure you were added to all of the relevant groups!
+The chat tool used for internal company communication, complete with GIFs. Double check with you manager to ensure you were added to all of the relevant groups!
  
 
 ### Hackpad
