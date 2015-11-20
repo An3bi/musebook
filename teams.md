@@ -13,7 +13,7 @@ Started the company and lead its awesomeness
 
 ### Editorial
 
-In charge of pushing out our amazing content
+Creates and distributes our amazing content
 
 **Adrian**, *Editor in Chief*
 
@@ -21,7 +21,7 @@ In charge of pushing out our amazing content
 
 ### Marketing
 
-In charge of making sure people get to experience our awesomeness
+Makes sure people get to experience our awesomeness
 
 **Elliott**, *Director of Brand Strategy & Community*
 
