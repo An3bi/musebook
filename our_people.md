@@ -1,5 +1,6 @@
 # Our People
 
+We hire incredible people with a variety of backgrounds. You are the core to making our business great and keep our users returning.  Here are some *interesting* facts about everyone.
 
 ## What our people love to eat
 [favorite ice cream chart]
