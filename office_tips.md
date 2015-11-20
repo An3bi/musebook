@@ -10,6 +10,7 @@ Identified by small blue couch, lots of books near by.
 Identified by, all the couches.
 
 #### The Cafe
+Identified by the high-top tables and proximity to the kitchen.
 
 
 ### Conference Rooms
