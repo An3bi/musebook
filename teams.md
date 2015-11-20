@@ -13,12 +13,12 @@ Point person: **Adrian**, *Editor in Chief*
 
 
 ### Marketing
-
+Point person: **Elliott**, *Director of Brand Strategy & Community*
 
 
 
 ### Engineering
-
+Point person: **Yusuf**, *CTO*
 
 
 
