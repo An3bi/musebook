@@ -4,7 +4,7 @@ The Muse is composed of several teams.  You should know who they are and what th
 
 
 ### Founders
-
+Kathryn Minshew & Alex Cavoulacos
 
 
 
