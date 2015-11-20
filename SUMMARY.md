@@ -10,4 +10,5 @@
    * The Kitchen
    * The Floorplan
    * The Software
+* Teams
 
