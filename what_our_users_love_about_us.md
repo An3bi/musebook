@@ -1,4 +1,4 @@
-# What our users love about us
+# Happy Reader Testimonials
 
 Wanted to say thank you to everyone at the muse ! I'm an HR director in Israel and your site has helped me in so many ways, personally and professionally. I share your articles with friends, family and candidates all the time via Facebook and email and I look forward to your Sunday newsletter each week. I gave learned and gained so much from your articles and articles that you feature from other sites. Your articles are truly helpful and so relevant, it's as if you read my mind! -- for example, interviewing tips, how to break bad habits, making emails better, as well as articles dealing with co workers etc. You are a fantastic resource, so glad I found you and you should all know that your hard work has really really paid off!
 
