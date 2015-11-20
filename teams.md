@@ -8,7 +8,7 @@ The Muse is composed of several teams.  You should know who they are and what th
 
 
 ### Editorial
-Point person: **Adrian**, Editor in Chief
+Point person: **Adrian**, *Editor in Chief*
 
 
 
@@ -33,4 +33,4 @@ Point person: **Adrian**, Editor in Chief
 
 
 ### Sales
-Point person: **Doug**, VP of Sales 
+Point person: **Doug**, *VP of Sales* 
