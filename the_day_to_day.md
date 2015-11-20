@@ -1,6 +1,23 @@
 # The Day to Day
 
+## The Office!
 
+### Where to HAng
+**The Library**
+
+**The Couches**
+
+**The Cafe**
+
+
+### Conference Rooms
+**The Board Room**
+
+**The Study**
+
+**The Garden**
+
+**The Parlor**
 
 ## Muse Calendars
 
