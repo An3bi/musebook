@@ -12,24 +12,34 @@ Started the company and lead its awesomeness
 
 
 ### Editorial
+
+In charge of pushing out our amazing content
+
 **Adrian**, *Editor in Chief*
 
 
 
 ### Marketing
-...description...
+
+In charge of making sure people get to experience our awesomeness
 
 **Elliott**, *Director of Brand Strategy & Community*
 
 
 
 ### Engineering
+
+Creates the awesome experiences we interact with on the site
+
 **Yusuf**, *CTO*
 
 
 
 
 ### Operations
+
+Manages our awesome people, clients, and awesomely makes sure we all get paid on time
+
 **Lindsay**, *Chief of Staff*
 * Profiles - Erin H., Content Manager
 * Account Management - David, Head of Account Management
