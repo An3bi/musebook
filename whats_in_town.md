@@ -40,7 +40,6 @@ Grab a drink after working hard
 * Smithfield's
 * Crompton's Ale House
 * The Ainsworth
-* 
 
 
 
