@@ -10,8 +10,8 @@
    * The Floorplan
    * [The Tools](tools.md)
 * [What's In Town?](whats_in_town.md)
-* [Teams](teams.md)
 * Embody the Culture
+   * [Teams](teams.md)
    * [Our Users](our_users.md)
    * [Our People](our_people.md)
 
