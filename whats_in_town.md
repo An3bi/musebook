@@ -6,7 +6,7 @@ We've listed just a few places here, but always feel free to poke the Muser to y
 
 
 ## Coffee Shops
-Check out some of the Coffee 
+Fuel yourself with coffee or tea
 * SevenGrams
 * Perpetuum
 * Birch
@@ -31,7 +31,7 @@ Fill your belly
 
 
 ## Take a Hike
-Take a break and see some stuff!
+Take a break and see some stuff
 * Madison Square Park
 * The Highline
 
