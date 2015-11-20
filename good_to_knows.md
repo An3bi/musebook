@@ -4,7 +4,7 @@
  
 Unlimited Vacation - is real. If you are taking advantage of our vacation policy, be sure to discuss ahead of time with you manager and ensure you have coverage while you are OOO (i.e. if you are an AM, ask the appropriate Muser to respond to time sensitive emails/matters while you're away).
 
-Benefits - Anne Ake (Anne.Ake@trinet.com) can answer any questions you have about the different options - health, dental and eye coverage.
+Benefits - [Anne Ake](mailto:Anne.Ake@trinet.com) can answer any questions you have about the different options - health, dental and eye coverage.
 
 Wageworks - also something Anne can help you with. Wageworks is a commuter benefit plan that allows you to buy metrocards (etc.) with pre-tax dollars.
 
