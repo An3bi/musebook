@@ -8,7 +8,7 @@
 * [The Day to Day](the_day_to_day.md)
    * The Kitchen
    * The Floorplan
-   * The Software
+   * Tools
 * [What's In Town?](whats_in_town.md)
 * [Teams](teams.md)
 * Embody the Culture
