@@ -2,12 +2,12 @@
 
 **Standup** - a daily meeting many teams have where they discuss what they have on the docket.
  
-Unlimited Vacation - is real. If you are taking advantage of our vacation policy, be sure to discuss ahead of time with you manager and ensure you have coverage while you are OOO (i.e. if you are an AM, ask the appropriate Muser to respond to time sensitive emails/matters while you're away).
+**Unlimited Vacation** - is real. If you are taking advantage of our vacation policy, be sure to discuss ahead of time with you manager and ensure you have coverage while you are OOO (i.e. if you are an AM, ask the appropriate Muser to respond to time sensitive emails/matters while you're away).
 
-Benefits - [Anne Ake](mailto:Anne.Ake@trinet.com) can answer any questions you have about the different options - health, dental and eye coverage.
+**Benefits** - [Anne Ake](mailto:Anne.Ake@trinet.com) can answer any questions you have about the different options - health, dental and eye coverage.
 
-Wageworks - also something Anne can help you with. Wageworks is a commuter benefit plan that allows you to buy metrocards (etc.) with pre-tax dollars.
+**Wageworks** - also something Anne can help you with. Wageworks is a commuter benefit plan that allows you to buy metrocards (etc.) with pre-tax dollars.
 
-Anyperk - deals on everything from gym memberships, to restaurants, to car rentals, et al.
+**Anyperk** - deals on everything from gym memberships, to restaurants, to car rentals, et al.
 
 This is our [Expense Report Form](https://docs.google.com/a/themuse.com/forms/d/16sPVKnGJdTfdUoudWqxEGWc1jR_TrtHN4q7jldJtvkk/viewform) - if you have questions about reimbursement, ask Matt K! Email receipts to [receipts@themuse.com](mailto:receipts@themuse.com)!
