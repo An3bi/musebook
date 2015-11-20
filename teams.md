@@ -4,7 +4,11 @@ The Muse is composed of several teams.  You should know who they are and what th
 
 
 ### Founders
+
+Started the company and lead its awesomeness
+
 **Kathryn**, *CEO* & **Alex**, *COO*
+
 
 
 ### Editorial
