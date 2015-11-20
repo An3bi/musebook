@@ -48,7 +48,7 @@ Grab a drink after working hard
 
 
 ## New to New York?
-Check out these awesome things to do [**here**](...)!
+Check out these awesome things to do [**here**](https://docs.google.com/document/d/1VDVhEVEBF26Tzdbsn1sxyR_tpQCpJT9pCJGfbw-XC7g/edit?ts=564f7a56)!
 
 
 
