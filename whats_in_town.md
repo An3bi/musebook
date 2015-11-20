@@ -23,9 +23,11 @@ Fill your belly
 * Mira Sushi
 * Le Pain Quotidien
 * Cafe El Presidente
+* Whole Foods
 * Tappo
 * Inday
 * Bombay Sandwich Co
+* Mirage Kitchen
 
 
 ## Take a Hike
