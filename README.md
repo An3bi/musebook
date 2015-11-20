@@ -11,17 +11,6 @@ This is a living, breathing document that guides you through all the inner worki
 We highly recommend reading through the "Your First Day" section as well as the top Muse articles. It's a way to learn what we do and why we do it.
 
 
-### What else will be in this book?
-
-Over time, this book will grow to include...
-* List of things we will add that we didn't get too...
-* Everything You Want to Know on Day One at The Muse 
-* HipChat Etiquette / Rituals in the Office (Shutterstock Challenge)
-* Existing "Daily Muse Employee Manual.pdf" (see Jimmy>Documents>Operations...)
-* Top 50 Articles
-* Timeline 
-* The Muse YC app
-* ...
 
 
 
