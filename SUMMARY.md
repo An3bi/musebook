@@ -6,7 +6,6 @@
    * Your Muse Buddy
    * Your Computer
 * [The Day to Day](the_day_to_day.md)
-   * The Kitchen
    * [The Tools](tools.md)
 * [What's In Town?](whats_in_town.md)
 * Embody the Culture
