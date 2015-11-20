@@ -23,6 +23,9 @@ If you're in Sales, make sure you ask Mark or Dylan to get you set up ASAP, and 
 If you're in AM or Onboarding, make sure you ask Lindsay to get you set up.
 
 
+### Amplitude & Google Analytics
+...
+
 
 ### Additionals
 
