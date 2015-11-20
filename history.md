@@ -210,20 +210,18 @@ We live in New York City, and the company would be based here after YC.
 
 
 
-Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? Will any be working as employees or consultants for anyone else?
+**Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? Will any be working as employees or consultants for anyone else?**
 No, we will not be working as employees or consultants for anyone else, nor are any of us covered by noncompetes or intellectual property agreements.
 
 
 
-Was any of your code written by someone who is not one of your founders? If so, how can you safely use it? (Open source is ok of course.)
+**Was any of your code written by someone who is not one of your founders? If so, how can you safely use it? (Open source is ok of course.)**
 
 We brought Alec Turnbull, a close friend of mine and a great web dev, onto the team in June to build our minimum viable product. He's a great guy but in September we mutually decided that his heart wasn't in staying with us long term, so we've been helping him find his next move and he's been helping us interview developers. We have narrowed the field down to two highly awesome, amazing female developers, one of whom we would like to bring on as soon as we close a round. (We like male devs too! We just happen to be finding females at the moment).
 
 
 
-Are any of the following true? (a) You are the only founder. (b) You are a student who may return to school when the next term starts. (c) Half or more of your group can't move to the Bay Area. (d) One or more founders will keep their current jobs. (e) None of the founders are programmers. (Answering yes doesn't disqualify you. It's just to remind us to check.)
-E
-
+**Are any of the following true? (a) You are the only founder. (b) You are a student who may return to school when the next term starts. (c) Half or more of your group can't move to the Bay Area. (d) One or more founders will keep their current jobs. (e) None of the founders are programmers. (Answering yes doesn't disqualify you. It's just to remind us to check.)**
 
 
 If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
@@ -231,7 +229,7 @@ Nope :)
 
 
 
-Please tell us something surprising or amusing that one of you has discovered. (The answer need not be related to your project.)
+**Please tell us something surprising or amusing that one of you has discovered. (The answer need not be related to your project.)**
 
 91% of women feel advertisers don't understand them.
 
