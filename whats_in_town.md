@@ -45,7 +45,8 @@ Grab a drink after working hard
 * The Ainsworth
 
 
-
+## New to New York?
+Check out these awesome things to do [here](...)
 
 
 
