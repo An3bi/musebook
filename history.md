@@ -39,7 +39,8 @@ http://thedailymuse.com
 
 
 
-Please enter the Posterous url of a 1 minute video introducing the founders. [*Check out their video here!*](https://www.themuse.com/advice/the-muses-successful-application-to-y-combinator-w12)
+**Please enter the Posterous url of a 1 minute video introducing the founders.**
+[*Check out their video here!*](https://www.themuse.com/advice/the-muses-successful-application-to-y-combinator-w12)
 
 
 **YC usernames of all founders, including you, KMinshew, separated by spaces.**
