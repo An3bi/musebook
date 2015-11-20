@@ -15,14 +15,19 @@ Identified by the high-top tables and proximity to the kitchen.
 
 
 ### Conference Rooms
+Book these rooms on the calendar to use!
 
 #### The Board Room
+Identified by the large glass wall and many chairs.
 
 #### The Study
+Identified by the cool hour glasses inside and proximity to the bathroom.
 
 #### The Garden
+Identified by being the only book-able conference room with a window to the outside.
 
 #### The Parlor
+Identified by it's proximity to the elevators, you can't miss it!
 
 
 ### Muse Calendars
