@@ -2,10 +2,14 @@
 
 ## First Day Tips
 
-* ...
-* ...
-* ...
+* Introduce yourself to folks
+  * We get a bunch of people in the office all the time, so make sure to let everyone know you're here to stay! 
+  * **Pro-tip:**  Take a peek at our site's [Team Page](www.themuse.com/team) to match some names to faces if you forget!
+* 
 * Founder's Lunch
+  * During your first month you'll get some face time with the founders for lunch.  Keep an eye out for the email!
+* ...
+* ...
 
 
 ## Muse Buddy
