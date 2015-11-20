@@ -24,7 +24,7 @@ Point person: **Yusuf**, *CTO*
 
 
 ### Operations
-
+Point person; **Lindsay**, *Chief of Staff*
 * Profiles
 * Account Management
 * Finance & Accounting
