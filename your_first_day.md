@@ -1,8 +1,6 @@
 # Your First Day
 
-
-
-
+## Muse Buddy
 
 
 
