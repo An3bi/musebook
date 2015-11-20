@@ -4,12 +4,11 @@ The Muse is composed of several teams.  You should know who they are and what th
 
 
 ### Founders
-Kathryn Minshew & Alex Cavoulacos
-
+**Kathryn** & **Alex**
 
 
 ### Editorial
-
+Point person: **Adrian**, Editor in Chief
 
 
 
@@ -34,6 +33,4 @@ Kathryn Minshew & Alex Cavoulacos
 
 
 ### Sales
-
-* Account Executives
-* Sales Development Representatives
+Point person: **Doug**, VP of Sales 
