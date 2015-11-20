@@ -25,10 +25,10 @@ Point person: **Yusuf**, *CTO*
 
 ### Operations
 Point person; **Lindsay**, *Chief of Staff*
-* Profiles
-* Account Management
-* Finance & Accounting
-* Talent
+* Profiles - Erin H., Content Manager
+* Account Management - David, Head of Account Management
+* Finance & Accounting - Matt K, Finance Manager
+* Talent - Lauren, Recruitment
 
 
 
