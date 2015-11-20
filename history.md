@@ -1,15 +1,12 @@
 # History
 
-## Our Founder's Story
+## Our Mission Statement
 
 
 ## YCombinator
-The Muse gets into Y Combinator!
+Fun fact! The Muse, formerly The Daily Muse, was launched out of Y Combinator.  Check out the story below!
 
 [How Kathryn & Alex got into Y Combinator](https://www.themuse.com/advice/the-muses-successful-application-to-y-combinator-w12)
-
-
-
 
 
 #### The Muse's Successful Application to Y Combinator (W12)
