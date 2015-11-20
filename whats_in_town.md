@@ -1,6 +1,6 @@
 # What's In Town?
 
-The Muse is located right in the heart of New York, NY.  Specifically, we are in the Chelsea / Flat Iron area.  Whether you're hungry, thirsty, or just in need of a walk around town, there's plenty to do.
+The Muse is located right in the heart of New York, NY.  Specifically, we are in the Chelsea area.  Whether you're hungry, thirsty, or just in need of a walk around town, there's plenty to do.
 
 We've listed just a few places here, but always feel free to poke the Muser to your left or right for new suggestions!
 
