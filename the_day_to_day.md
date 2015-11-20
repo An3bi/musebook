@@ -3,6 +3,7 @@
 ## The Office!
 
 ### Where to Hangout
+
 #### The Library
 
 #### The Couches
@@ -11,6 +12,7 @@
 
 
 ### Conference Rooms
+
 #### The Board Room
 
 #### The Study
@@ -19,10 +21,11 @@
 
 #### The Parlor
 
-## Muse Calendars
 
-### OOO Calendar
+### Muse Calendars
 
-### Muse Events
+#### OOO Calendar
 
-### Exercise / Activities
+#### Muse Events
+
+#### Exercise / Activities
