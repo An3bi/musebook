@@ -1,2 +1,3 @@
 # Activities
 
+Whiskey Friday
