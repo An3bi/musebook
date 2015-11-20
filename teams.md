@@ -1,6 +1,6 @@
 # Teams
 
-The Muse is composed of several teams.  You should know who they are and what they do to help you do your job even better.
+The Muse is composed of several teams.  You should know who they are and what they do to help you do your job even better.  The point person for each team is listed, as well.
 
 
 ### Founders
@@ -35,4 +35,4 @@ The Muse is composed of several teams.  You should know who they are and what th
 
 
 ### Sales
-Point person: **Doug**, *VP of Sales* 
+**Doug**, *VP of Sales* 
