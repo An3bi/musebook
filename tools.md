@@ -10,7 +10,7 @@ Double check with you manager to ensure you were added to all of the relevant gr
 
 ### Hackpad
 
-Musers use Hackpad as a shared document tool for all sorts of things. Here you’ll find the Muse Team Roster, Team Interest in Skills Trainings, Events/Opportunities for Musers, Whom to Ask About Anything At The Muse, and other Hackpads (https://hackpad.com/Hackpad-Index-zaVUi9AT5yD, "Index here!") relevant to your team or role. Full index here. 
+Musers use Hackpad as a shared document tool for all sorts of things. Here you’ll find the Muse Team Roster, Team Interest in Skills Trainings, Events/Opportunities for Musers, Whom to Ask About Anything At The Muse, and other Hackpads [](https://hackpad.com/Hackpad-Index-zaVUi9AT5yD "Index here!") relevant to your team or role. Full index here. 
 This week, be sure to review our Protocol Guide that touches on everything from how to get in the building after 5 (there's a code), to connecting to the wifi, to fridge protocol, to HR contacts (might be handy as your setting up your benefits in the coming weeks).
 
 
