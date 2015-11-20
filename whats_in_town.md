@@ -13,22 +13,17 @@ Fuel yourself with coffee or tea
 * Perpetuum
 * Birch
 * Brooklyn Coffee
-* Grumpy
 * Fika
 * Cafe Bustelo
-* Argo
 * Eataly
 
 
 ## Lunch Time
 Fill your belly
 * Mira Sushi
-* Le Pain Quotidien
 * Cafe El Presidente
 * Whole Foods
 * Kobeyaki
-* Tappo
-* Inday
 * Bombay Sandwich Co
 * Mirage Kitchen
 
