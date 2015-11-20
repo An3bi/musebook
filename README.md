@@ -1,6 +1,8 @@
 # Welcome to the MuseBook
 
 
+## CHANGE ALL OF THIS!!!!
+
 ### What is this guide?
 
 This is a living, breathing document that guides you through all the inner workings of **The Muse**.  Where to get pens, how to make the coffee, who can I ask about adding a new feature to the website, etc... it's all here.
