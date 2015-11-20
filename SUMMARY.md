@@ -6,7 +6,7 @@
    * Your Computer
 * History
    * [Y Combinator](y_combinator.md)
-* What's In Town?
+* [What's In Town?](whats_in_town.md)
    * Coffee Shops
    * Lunchtime
    * Take a Hike
