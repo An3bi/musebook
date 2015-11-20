@@ -6,6 +6,7 @@
 * [The Day to Day](the_day_to_day.md)
    * [Tools](tools.md)
    * [Activities](activities.md)
+   * Office Tips
 * [What's In Town?](whats_in_town.md)
 * Embody the Culture
    * [Teams](teams.md)
