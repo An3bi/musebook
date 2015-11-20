@@ -8,7 +8,7 @@
    * [Activities](activities.md)
    * [Office Tips](office_tips.md)
 * [What's In Town?](whats_in_town.md)
-* Embody the Culture
+* [Embody the Culture](embody_the_culture.md)
    * [Teams](teams.md)
    * [Our Users](our_users.md)
    * [Our People](our_people.md)
