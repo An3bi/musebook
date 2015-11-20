@@ -18,8 +18,6 @@ Fuel yourself with coffee or tea
 * Eataly
 
 
-
-
 ## Lunch Time
 Fill your belly
 * Mira Sushi
@@ -34,7 +32,6 @@ Fill your belly
 Take a break and see some stuff
 * Madison Square Park
 * The Highline
-
 
 
 ## Happy Hours
