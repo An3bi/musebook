@@ -1,15 +1,14 @@
 # Welcome to the MuseBook
 
 
-## CHANGE ALL OF THIS!!!!
+## Your guide to getting started @ The Muse
 
 ### What is this guide?
 
-This is a living, breathing document that guides you through all the inner workings of **The Muse**.  Where to get pens, how to make the coffee, who can I ask about adding a new feature to the website, etc... it's all here.
+This is a living, breathing document that guides you through all the inner workings of **The Muse**. Where to get pens, how to make the coffee, who can I ask about adding a new feature to the website, etc... it's all here.
 
-### How long should it take for me to memory all this?
-
-Umm... you don't! This will be your reference guide for as long as you work here.  You'll have access to this 24/7, so don't hesitate to use it as a resource at any time.  ***Shhhh***... Even the co-founders use it!
+###  What are the most useful parts of this book?
+We highly recommend reading through the "Your First Day" section as well as the top Muse articles. It's a way to learn what we do and why we do it.
 
 
 ### What else will be in this book?
