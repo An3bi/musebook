@@ -3,21 +3,21 @@
 ## The Office!
 
 ### Where to Hangout
-**The Library**
+#### The Library
 
-**The Couches**
+#### The Couches
 
-**The Cafe**
+#### The Cafe
 
 
 ### Conference Rooms
-**The Board Room**
+#### The Board Room
 
-**The Study**
+#### The Study
 
-**The Garden**
+#### The Garden
 
-**The Parlor**
+#### The Parlor
 
 ## Muse Calendars
 
