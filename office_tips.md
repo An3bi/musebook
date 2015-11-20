@@ -25,8 +25,8 @@ Book these rooms on the calendar to use!
 
 ## Muse Calendars
 
-**OOO Calendar**: Where to tell everyone you're out of the office, or working from elsewhere
+**OOO Calendar**: Where to tell everyone you're out of the office, or working from elsewhere.
 
-**Muse Events**: Where The Muse tells you cool things happening in the office
+**Muse Events**: Where The Muse tells you cool things happening in the office.
 
-**Exercise / Activities**:  Feel free to post on here to share fun physical activities
+**Exercise / Activities**:  Feel free to post on here to share fun physical activities.
