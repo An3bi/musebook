@@ -8,6 +8,7 @@
    * [Good to Knows](good_to_knows.md)
 * [The Day to Day](the_day_to_day.md)
    * [The Tools](tools.md)
+   * Activities
 * [What's In Town?](whats_in_town.md)
 * Embody the Culture
    * [Teams](teams.md)
