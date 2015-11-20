@@ -4,6 +4,8 @@ The Muse is located right in the heart of New York, NY.  Specifically, we are in
 
 We've listed just a few places here, but always feel free to poke the Muser to your left or right for new suggestions!
 
+**Challenge!** Ask a fellow Muser for directions to these places, and learn a new face!
+
 
 ## Coffee Shops
 Fuel yourself with coffee or tea
