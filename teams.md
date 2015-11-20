@@ -4,11 +4,11 @@ The Muse is composed of several teams.  You should know who they are and what th
 
 
 ### Founders
-**Kathryn** & **Alex**
+**Kathryn**, *CEO* & **Alex**, *COO*
 
 
 ### Editorial
-Point person: **Adrian**, *Editor in Chief*
+**Adrian**, *Editor in Chief*
 
 
 
