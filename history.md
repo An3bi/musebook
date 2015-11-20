@@ -1,7 +1,7 @@
 # History
 
 ## Our Mission Statement
-
+....
 
 ## YCombinator
 Fun fact! The Muse, formerly The Daily Muse, was launched out of Y Combinator.  Check out the story below!
