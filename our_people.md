@@ -3,4 +3,8 @@
 
 ## What our people love to eat
 
+
 ## What our people listen to
+Part of initiation includes listing the most embarrassing song on your personal playlist.  Without further adieu...
+
+[insert playlist here]
