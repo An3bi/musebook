@@ -20,14 +20,13 @@ Book these rooms on the calendar to use!
 
 **The Garden**: Identified by being the only book-able conference room with a window to the outside.
 
-#### The Parlor
-Identified by it's proximity to the elevators, you can't miss it!
+**The Parlor**: Identified by it's proximity to the elevators, you can't miss it!
 
 
-### Muse Calendars
+## Muse Calendars
 
-#### OOO Calendar
+**OOO Calendar**: Where to tell everyone you're out of the office, or working from elsewhere
 
-#### Muse Events
+**Muse Events**: Where The Muse tells you cool things happening in the office
 
-#### Exercise / Activities
+**Exercise / Activities**:  Feel free to post on here to share fun physical activities
