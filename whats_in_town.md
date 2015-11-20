@@ -24,6 +24,7 @@ Fill your belly
 * Le Pain Quotidien
 * Cafe El Presidente
 * Whole Foods
+* Kobeyaki
 * Tappo
 * Inday
 * Bombay Sandwich Co
