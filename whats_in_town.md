@@ -14,8 +14,8 @@ Fuel yourself with coffee or tea
 * Birch
 * Brooklyn Coffee
 * Fika
-* Cafe Bustelo
 * Eataly
+* * Cafe Bustelo
 
 
 ## Lunch Time
