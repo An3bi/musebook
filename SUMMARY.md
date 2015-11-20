@@ -14,5 +14,4 @@
    * The Kitchen
    * The Floorplan
    * The Software
-* TEst Chapter
 
