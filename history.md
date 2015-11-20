@@ -1,7 +1,7 @@
 # History
 
 ## Our Mission
-To build the most beloved and trusted career destination for people in the first 10-15 years of their career
+To build the most beloved and trusted career destination for people in the first 10-15 years of their career.
 
 ## YCombinator
 Fun fact! The Muse, formerly The Daily Muse, was launched out of Y Combinator.  Check out the story below!
