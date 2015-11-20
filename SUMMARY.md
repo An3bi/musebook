@@ -13,5 +13,5 @@
 * Teams
 * Embody the Culture
    * [Our Users](our_users.md)
-   * Our People
+   * [Our People](our_people.md)
 
