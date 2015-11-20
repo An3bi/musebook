@@ -26,7 +26,6 @@ The Muse is composed of several teams.  You should know who they are and what th
 
 ### Operations
 
-
 * Profiles
 * Account Management
 * Finance & Accounting
@@ -35,5 +34,6 @@ The Muse is composed of several teams.  You should know who they are and what th
 
 
 ### Sales
+
 * Account Executives
 * Sales Development Representatives
