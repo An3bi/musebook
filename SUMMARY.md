@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [History](history.md)
-* Your First Day
+* [Your First Day](your_first_day.md)
    * Your Muse Buddy
    * Your Computer
    * [Good to Knows](good_to_knows.md)
