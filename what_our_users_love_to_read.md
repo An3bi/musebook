@@ -2,6 +2,8 @@
 
 Here are the most popularly read Muse articles **of all time**!  (*insert Kanye West voice*).
 
+Click the link below to check them out on the site, or flip to page to read them offline!
+
 1. [How to Answer the 31 Most Common Interview Questions](themuse.com/advice/how-to-answer-the-31-most-common-interview-questions)
 2. [A Simple Formula for Answering "Tell Me About Yourself"](themuse.com/advice/a-simple-formula-for-answering-tell-me-about-yourself)
 3. [275 Free Resume Templates You Can Use Right Now](themuse.com/advice/275-free-resume-templates-you-can-use-right-now)
